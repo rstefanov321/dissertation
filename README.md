@@ -55,7 +55,7 @@ For further details on the sources and their charts, see my dissertaion.
 
 <h4> Data preprocessing </h4>
 
-As Cryptos are traded 24/7, the other investment tools aren't , therefore, interpolation was used to fill the missing values for Saturdays, Sundays or bank holidays. 
+As Cryptos are traded 24/7, the other investment tools aren't , therefore, <b>interpolation </b> was used to fill the missing values for Saturdays, Sundays or bank holidays. 
 
 
 
