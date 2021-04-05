@@ -1,4 +1,4 @@
-# dissertation
+# My Dissertation
 <h2> Brief Overview / Title of the dissertation </h2>
 
 An analysis of <b>Cryptocurrencies' potential to become a wealth-preservation alternative to precious metals during capital market volatility.</b>
