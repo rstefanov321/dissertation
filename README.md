@@ -1,7 +1,7 @@
 # dissertation
 <h2> Brief Overview / Title of the dissertation </h2>
 
-An analysis of Cryptocurrencies' potential to become a wealth-preservation alternative to precious metals during capital market volatility.
+An analysis of <b>Cryptocurrencies' potential to become a wealth-preservation alternative to precious metals during capital market volatility.</b>
 
 The asymmetric GJR-GARCH statistical model used to show the price behaviour differences/similarities between cryptos, precious metals and macroeconomic factors' prices. 
 
